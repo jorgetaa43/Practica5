@@ -1,0 +1,21 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+h1 {
+    text-align: center;
+}
+
+/* .container {
+
+} */
+
+#button {
+    text-align: center;
+    
+}
+
+#boton {
+    width: 150px;
+}
